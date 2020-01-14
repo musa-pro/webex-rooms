@@ -1,0 +1,407 @@
+[
+    {
+        "time": "09:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "09:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "10:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "10:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "11:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "11:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "12:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "12:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "13:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "13:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "14:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "14:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "15:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "16:00:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "16:30:00",
+        "duration": 0.5,
+        "room": 1
+    },
+    {
+        "time": "09:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "10:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "11:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "12:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "13:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "14:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "15:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "16:30:00",
+        "duration": 0.5,
+        "room": 2
+    },
+    {
+        "time": "09:00:00",
+        "duration": 0.5,
+        "room": 3
+    },
+    {
+        "time": "10:30:00",
+        "duration": 0.5,
+        "room": 3
+    },
+    {
+        "time": "12:00:00",
+        "duration": 0.5,
+        "room": 3
+    },
+    {
+        "time": "13:30:00",
+        "duration": 0.5,
+        "room": 3
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 3
+    },
+    {
+        "time": "16:30:00",
+        "duration": 0.5,
+        "room": 3
+    },
+    {
+        "time": "09:00:00",
+        "duration": 0.5,
+        "room": 4
+    },
+    {
+        "time": "11:00:00",
+        "duration": 0.5,
+        "room": 4
+    },
+    {
+        "time": "13:00:00",
+        "duration": 0.5,
+        "room": 4
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 4
+    },
+    {
+        "time": "09:00:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "10:00:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "10:30:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "11:30:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "12:00:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "13:30:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "14:00:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "14:30:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "16:00:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "16:30:00",
+        "duration": 0.5,
+        "room": 5
+    },
+    {
+        "time": "11:00:00",
+        "duration": 0.5,
+        "room": 6
+    },
+    {
+        "time": "12:00:00",
+        "duration": 0.5,
+        "room": 6
+    },
+    {
+        "time": "12:30:00",
+        "duration": 0.5,
+        "room": 6
+    },
+    {
+        "time": "13:30:00",
+        "duration": 0.5,
+        "room": 6
+    },
+    {
+        "time": "14:00:00",
+        "duration": 0.5,
+        "room": 6
+    },
+    {
+        "time": "14:30:00",
+        "duration": 0.5,
+        "room": 6
+    },
+    {
+        "time": "16:30:00",
+        "duration": 0.5,
+        "room": 6
+    },
+    {
+        "time": "10:00:00",
+        "duration": 0.5,
+        "room": 7
+    },
+    {
+        "time": "11:30:00",
+        "duration": 0.5,
+        "room": 7
+    },
+    {
+        "time": "12:00:00",
+        "duration": 0.5,
+        "room": 7
+    },
+    {
+        "time": "13:30:00",
+        "duration": 0.5,
+        "room": 7
+    },
+    {
+        "time": "14:30:00",
+        "duration": 0.5,
+        "room": 7
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 7
+    },
+    {
+        "time": "15:30:00",
+        "duration": 0.5,
+        "room": 7
+    },
+    {
+        "time": "09:00:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "10:30:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "12:00:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "13:30:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "15:30:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "16:00:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "16:30:00",
+        "duration": 0.5,
+        "room": 8
+    },
+    {
+        "time": "09:30:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "10:30:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "11:00:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "12:00:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "12:30:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "13:00:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "14:30:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "15:30:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "16:00:00",
+        "duration": 0.5,
+        "room": 9
+    },
+    {
+        "time": "15:00:00",
+        "duration": 0.5,
+        "room": 10
+    },
+    {
+        "time": "15:30:00",
+        "duration": 0.5,
+        "room": 10
+    },
+    {
+        "time": "16:00:00",
+        "duration": 0.5,
+        "room": 10
+    },
+    {
+        "time": "16:30:00",
+        "duration": 0.5,
+        "room": 10
+    }
+]

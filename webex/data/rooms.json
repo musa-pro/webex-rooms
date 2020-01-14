@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "2-East-22",
+        "seat": 2
+    },
+    {
+        "id": 2,
+        "name": "2-East-23",
+        "webex": "yes"
+    },
+    {
+        "id": 3,
+        "name": "2-East-24",
+        "seat": 4
+    },
+    {
+        "id": 4,
+        "name": "3-South-12",
+        "seat": 16,
+        "whiteboard": "yes",
+        "screen": "yes"
+    },
+    {
+        "id": 5,
+        "name": "3-South-13"
+    },
+    {
+        "id": 6,
+        "name": "3-South-18",
+        "seat": 8,
+        "whiteboard": "yes"
+    },
+    {
+        "id": 7,
+        "name": "2-West-32",
+        "seat": 16,
+        "webex": "yes",
+        "whiteboard": "yes",
+        "screen": "yes"
+    },
+    {
+        "id": 8,
+        "name": "2-West-32",
+        "seat": 10,
+        "webex": "yes",
+        "screen": "yes"
+    },
+    {
+        "id": 9,
+        "name": "2-West-37",
+        "seat": 6,
+        "whiteboard": "yes"
+    },
+    {
+        "id": 10,
+        "name": "5-North-2",
+        "seat": 25,
+        "webex": "yes",
+        "whiteboard": "yes",
+        "screen": "yes"
+    }
+]
